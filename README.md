@@ -40,4 +40,5 @@
 
 ## Notes
 - This method is easy and simple, but verrrrrrrrrry naive approach.
+- In this code, I removed SSRN. Thus, you need another mel2wav vocoder. I recommend WaveGlow or Parallel WaveGAN.
 
